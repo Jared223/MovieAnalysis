@@ -22,22 +22,22 @@ Seaborn
 Clone this repository.
 
 1. Clone this repository.
-   ```bash
+   ``bash
    git clone https://github.com/your_username/your_repository_name.git
-   \```
+   ``
 2. Navigate to the project directory.
-   ```bash
+   ``bash
    cd your_repository_name
-   \```
+   ``
 3. (Optional) Create a virtual environment.
-   ```bash
+   ``bash
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   \```
+   ``
 4. Install the required packages.
-   ```bash
+   ``bash
    pip install pandas matplotlib seaborn
-   ```
+   ``
 
 Key Insights
 The peak of the distribution suggests a mode runtime of approximately 100 minutes for movies in the dataset.
