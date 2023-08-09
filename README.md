@@ -12,10 +12,10 @@ This project explores a dataset of movies to understand patterns in movie runtim
 
 ## Dependencies
 
-Python 3.x
-Pandas
-Matplotlib
-Seaborn
+- Python 3.x
+- Pandas
+- Matplotlib
+- Seaborn
 
 ## Setup & Installation
 
@@ -39,7 +39,8 @@ Clone this repository.
    pip install pandas matplotlib seaborn
    ```
 
-Key Insights
+## Key Insights
+
 The peak of the distribution suggests a mode runtime of approximately 100 minutes for movies in the dataset.
 There's a varied spread of runtimes across different ratings, indicating that a movie's length doesn't necessarily correlate with its rating.
 
