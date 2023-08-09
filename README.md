@@ -8,7 +8,7 @@ This project explores a dataset of movies to understand patterns in movie runtim
 
 ## Sample Scatter Plot
 
-![Sample scatter graph](scatterExample.png)
+![Sample scatter graph](assets/scatterExample.png)
 
 ## Dependencies
 
